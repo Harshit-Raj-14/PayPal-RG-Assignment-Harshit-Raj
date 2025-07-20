@@ -1,4 +1,4 @@
-package com.javatechie.spring.batch.entity;
+package com.customer.spring.batch.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
